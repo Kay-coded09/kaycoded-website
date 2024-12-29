@@ -735,6 +735,13 @@ body{
     .container header .header-container{
         padding: 10px 10px;
     }
+    .container header .header-container ul li a .fa{
+    color: #000000;
+    color: #ffffff;
+    font-size: 0.8rem;
+    margin: 0px 5px 0 0;
+    margin: 0px;
+}
     .container header .header-content-div{
     width: 100%;
     height: 100%;
